@@ -20,24 +20,24 @@
 
 토스 앱 안에서 설치 없이 바로 쓰는 [앱인토스](https://developers-apps-in-toss.toss.im/) 미니앱이에요.
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="33%">
       <img src="assets/zero-spend.png" width="88" alt="오늘 무지출 했나요 아이콘" /><br /><br />
       <b>오늘 무지출 했나요</b><br />
-      <sub>돈 안 쓴 날을 기록하고<br />절약 습관을 만드는 챌린지</sub><br /><br />
+      <sub>돈 안 쓴 날을 기록하는 절약 챌린지</sub><br /><br />
       <a href="https://github.com/whitenoise-hq/zero-spend">레포 보기</a>
     </td>
     <td align="center" width="33%">
       <img src="assets/onul-tarot.png" width="88" alt="오늘 타로 아이콘" /><br /><br />
       <b>오늘 타로</b><br />
-      <sub>매일 아침 카드 한 장으로<br />오늘을 비추는 타로</sub><br /><br />
+      <sub>매일 아침 카드 한 장 타로</sub><br /><br />
       <a href="https://github.com/whitenoise-hq/onul-tarot">레포 보기</a>
     </td>
     <td align="center" width="33%">
       <img src="assets/water-my-plant.png" width="88" alt="오늘 물 줬나요 아이콘" /><br /><br />
       <b>오늘 물 줬나요</b><br />
-      <sub>식물마다 매일 체크하는<br />물주기 기록</sub><br /><br />
+      <sub>식물마다 매일 체크하는 물주기 기록</sub><br /><br />
       <sub>준비 중</sub>
     </td>
   </tr>
@@ -47,18 +47,18 @@
 
 ## 반려동물 앱
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="50%">
       <img src="assets/poponote.png" width="88" alt="포포노트 아이콘" /><br /><br />
       <b>포포노트</b><br />
-      <sub>가족이 함께 쓰는 반려동물 다이어리<br />사진 한 장이면 AI가 일기를 써 줘요</sub><br /><br />
+      <sub>가족이 함께 쓰는 반려동물 AI 다이어리</sub><br /><br />
       <a href="https://poponote.devwoodie.com">웹사이트</a> · <a href="https://github.com/whitenoise-hq/poponote">레포 보기</a>
     </td>
     <td align="center" width="50%">
       <img src="assets/popostat.png" width="88" alt="포포스탯 아이콘" /><br /><br />
       <b>포포스탯</b><br />
-      <sub>우리 아이의 숨은 전투력 측정기<br />AI 스탯 분석과 전투력 카드 수집</sub><br /><br />
+      <sub>우리 아이의 숨은 전투력 측정기</sub><br /><br />
       <a href="https://github.com/whitenoise-hq/popostat">레포 보기</a>
     </td>
   </tr>
