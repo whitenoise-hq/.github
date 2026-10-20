@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f8fa"/>
+      <stop offset="1" stop-color="#eceff3"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b9c2cc" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#9aa5b1" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#b9c2cc" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <!-- 백색소음을 닮은 잔잔한 파형 -->
+  <g fill="none" stroke="url(#wave)" stroke-linecap="round">
+    <path d="M0 236 C 150 212, 300 260, 450 236 S 750 212, 900 236 S 1100 256, 1200 240" stroke-width="2"/>
+    <path d="M0 252 C 160 236, 320 272, 480 252 S 800 232, 960 252 S 1120 266, 1200 256" stroke-width="1.5"/>
+    <path d="M0 268 C 170 256, 340 284, 510 268 S 850 252, 1020 268 S 1140 278, 1200 272" stroke-width="1"/>
+  </g>
+  <g fill="#9aa5b1">
+    <rect x="560" y="72" width="6" height="28" rx="3" opacity="0.5"/>
+    <rect x="574" y="62" width="6" height="48" rx="3" opacity="0.7"/>
+    <rect x="588" y="54" width="6" height="64" rx="3"/>
+    <rect x="602" y="66" width="6" height="40" rx="3" opacity="0.8"/>
+    <rect x="616" y="76" width="6" height="20" rx="3" opacity="0.5"/>
+    <rect x="630" y="70" width="6" height="32" rx="3" opacity="0.6"/>
+  </g>
+  <text x="600" y="168" text-anchor="middle" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="44" font-weight="800" fill="#191f28" letter-spacing="-1">백색소음본부</text>
+  <text x="600" y="204" text-anchor="middle" font-family="Pretendard, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif" font-size="17" font-weight="600" fill="#6b7684" letter-spacing="4">WHITENOISE HQ</text>
+</svg>
