@@ -41,7 +41,7 @@
       <img src="assets/water-my-plant.png" width="88" alt="오늘 물 줬나요 아이콘" /><br /><br />
       <b>오늘 물 줬나요</b><br />
       <sub>식물마다 매일 체크하는 물주기 기록</sub><br /><br />
-      <sub>준비 중</sub>
+      <a href="https://github.com/whitenoise-hq/water-my-plant">레포 보기</a>
     </td>
   </tr>
 </table>
